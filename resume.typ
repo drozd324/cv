@@ -1,5 +1,3 @@
-#import "@preview/scienceicons:0.1.0": orcid-icon
-
 #let resume(
   author: "",
   author-position: left,
@@ -11,7 +9,6 @@
   linkedin: "",
   phone: "",
   personal-site: "",
-  orcid: "",
   accent-color: "#000000",
   font: "New Computer Modern",
   paper: "us-letter",
@@ -95,7 +92,6 @@
           contact-item(github, link-type: "https://", prefix: "Github"),
           contact-item(linkedin, link-type: "https://", prefix: "Linkedin"),
           contact-item(personal-site, link-type: "https://", prefix: "Personal website"),
-          contact-item(orcid, prefix: [#orcid-icon(color: rgb("#AECD54"))orcid.org/], link-type: "https://orcid.org/"),
         )
         items.filter(x => x != none).join("  |  ")
       }

@@ -79,7 +79,7 @@
   location: "Lauenburg, Germany",
   dates: dates-helper(start-date: "28 July 2025", end-date: "7 Aug 2025"),
 )
-- Attended a summer school about learning about climate science and developing it within the context of heterogeneous computing and data science.
+- Attended a #link("https://hpc4climate2025.org/")[summer school] about learning about climate science and developing it within the context of heterogeneous computing and data science.
 //- Relevant Coursework: 
 
 #edu(

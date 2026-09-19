@@ -33,10 +33,10 @@
   dates: dates-helper(start-date: "Sep 2025", end-date: "Present"),
 )
 - Developing and maintaining electrostatics simulation software within parasitic extraction.
-- Parallelised numerical algorithms requiring optimisations for faster turn around time. 
-- Worked with customers and shipped requests spanning entire simulation flow.
+- Parallelised numerical algorithms for faster turn around time. 
+- Worked on customers requests and shipped code spanning entire simulation flow.
 - Created specialised debugging routine for at least 2x faster triaging of problematic code.
-- Lead a hackathon team exploring and developing AI capabilities in automating routine debugging. 
+- Lead internal hackathon team exploring and developing AI capabilities in automating routine debugging. 
 
 #work(
   title: "Teaching Assistant",
@@ -60,7 +60,7 @@
   company: "Maynooth University",
   dates: dates-helper(start-date: "June 2023", end-date: "Aug 2023"),
 )
-- I worked with a postdoctoral researcher to develop skills in machine learning with Python and Pytorch. I developed models to classify regions of space for whether they form features like black holes or stars, and to upscale coarse snapshots from cosmological simulations. A #link("https://patrykdrozd.fun/coding_folder/SPUR2023.html")[link] the research poster. 
+- I worked with a postdoctoral researcher to develop skills in machine learning with Python and Pytorch. I developed models to classify regions of space for whether they form features like black holes or stars, and to upscale coarse snapshots from cosmological simulations. A #link("https://patrykdrozd.fun/coding_folder/SPUR2023.html")[link] to the research poster. 
 
 == Education
 #edu(
@@ -89,7 +89,7 @@
   dates: dates-helper(start-date: "Sep 2021", end-date: "Sep 2024"),
 )
 - A 3 year accelerated theoretical physics and pure mathematics course.
-- Student representative for my year group in Physics departament.
+- Student representative for my year group in Physics department.
 //- Relevant Coursework: Fluid Mechancs, Computational Physics, Quantum Information Processing
 
 == Skills
@@ -112,7 +112,7 @@
   name: "GPU Delaunay Triangulation",
   url: "https://github.com/drozd324/GPU_Delaunay_Triangulation",
 )
-- For my masters thesis I imlemented a Delaunay triangulation meshing algorithm on the GPU with C++ and CUDA.
+- For my masters thesis I implemented a Delaunay triangulation meshing algorithm on the GPU with C++ and CUDA.
 
 #project(
    name: "Finite Element PDE solvers",

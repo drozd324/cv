@@ -94,7 +94,7 @@
 
 == Skills
 - *Programming* 
-	- C++ — ISO, STL, Boost, multithreading with OpenMP, MPI, CUDA & in-house solutions.
+	- C++ — ISO, STL, Boost, parallel and distributed with OpenMP, MPI, CUDA & in-house solutions.
 	- Linux — Experience with university and industry HPC systems.
 	- Shell — Generic scripting for routine automation, sh, bash, zsh.
 	- Python — Experience with libraries such as Numpy, Matplotlib, Pandas and Pytorch.
